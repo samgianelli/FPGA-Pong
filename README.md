@@ -1,7 +1,9 @@
 # FPGA-Pong
 
 Language: Verilog
+
 Purpose: class project for Digital Logic
+
 FPGA used: Nexys4 DDR
 
 Code for a game that can be synthesized to an FPGA board where one or two players bounce a moving LED back and forth
